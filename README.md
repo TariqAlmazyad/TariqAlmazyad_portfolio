@@ -2,7 +2,7 @@
 
 ## My name is Tariq Almazyad . 
 ## I am a junior iOS developer, currently working as freelance for making apps. 
-## I believe a great iOS developer never stops from learning new skills everyday.
+## I believe a great iOS developer never stops from learning new skills everyday. My passionate to learn new skill in Swift never stops
 
 
 
