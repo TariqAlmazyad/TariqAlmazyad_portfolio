@@ -8,13 +8,24 @@
 
 
 ### My very First app **Cool Listy**
-[Click here for Download](https://apps.apple.com/us/app/cool-listy/id1495567728?ls=1)
+
+ <a href="https://apps.apple.com/us/app/cool-listy/id1495567728?ls=1">
+<img src="https://user-images.githubusercontent.com/34104180/72784308-835b1700-3bf6-11ea-9de3-96ef3b5ddb61.png" alt="Smiley face" height="140" width="360">
+</a>
+
+
+
 
 ## Used Frameworks 
 ### chameleon  
 ### Realm
 ### swipecellkit
-![rsz_img_4410](https://user-images.githubusercontent.com/34104180/72783093-8dc7e180-3bf3-11ea-8269-11fe7acec819.png)![rsz_img_4409](https://user-images.githubusercontent.com/34104180/72783141-b5b74500-3bf3-11ea-9411-6da868bbed6b.png)
+<p>
+<img src="https://user-images.githubusercontent.com/34104180/72783093-8dc7e180-3bf3-11ea-8269-11fe7acec819.png" alt="Smiley face" height="400" width="400">
+
+<img src="https://user-images.githubusercontent.com/34104180/72783141-b5b74500-3bf3-11ea-9411-6da868bbed6b.png" alt="Smiley face" height="400" width="400">
+</p>
+
 
 
 
