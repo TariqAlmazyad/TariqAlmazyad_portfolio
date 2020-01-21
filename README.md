@@ -10,7 +10,8 @@
 [Click here for Download](https://apps.apple.com/us/app/cool-listy/id1495567728?ls=1)
 
 
-![IMG_4409_50](https://user-images.githubusercontent.com/34104180/72783022-5ce7ac80-3bf3-11ea-8a0f-b58c6e63a425.png)
+![rsz_img_4410](https://user-images.githubusercontent.com/34104180/72783093-8dc7e180-3bf3-11ea-8269-11fe7acec819.png)
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
