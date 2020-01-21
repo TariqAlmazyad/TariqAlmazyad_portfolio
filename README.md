@@ -1,7 +1,9 @@
   ## Welcome to my portfolio
 
 # My name is Tariq Almazyad . 
+
 ## I am a junior iOS developer , and currently working as freelance for making apps. 
+
 ### I believe a great iOS developer never stops from learning new skills everyday.
 
 
