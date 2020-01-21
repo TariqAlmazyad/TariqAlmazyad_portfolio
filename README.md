@@ -7,7 +7,9 @@
 
 
 ### My very First app **Cool Listy**
-https://apps.apple.com/us/app/cool-listy/id1495567728?ls=1
+![apple](https://user-images.githubusercontent.com/34104180/72782884-f8c4e880-3bf2-11ea-9b07-83c57f2a6256.png)
+[Link](https://apps.apple.com/us/app/cool-listy/id1495567728?ls=1)
+
 
 ![IMG_4409](https://user-images.githubusercontent.com/34104180/72782135-04171480-3bf1-11ea-9a68-f450e8b0a39d.PNG)
 
