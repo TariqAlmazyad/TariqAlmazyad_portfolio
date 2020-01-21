@@ -10,6 +10,7 @@
 
 ### My very First app **Cool Listy**
 
+### My Goal was to add to a To Do list more colorful flavor and take user experience to the next level
  <a href="https://apps.apple.com/us/app/cool-listy/id1495567728?ls=1">
 <img src="https://user-images.githubusercontent.com/34104180/72784308-835b1700-3bf6-11ea-9de3-96ef3b5ddb61.png" alt="Smiley face" height="140" width="360">
 </a>
