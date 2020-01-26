@@ -10,7 +10,11 @@
 
 <p>
 <img src="https://user-images.githubusercontent.com/34104180/73143067-c0466400-4063-11ea-9b13-66a4c358682b.gif" alt="Smiley face" height="400" width="230">
+ <img src="https://user-images.githubusercontent.com/34104180/73143133-6befb400-4064-11ea-887d-feaf2c6ead4d.gif" alt="Smiley face" height="400" width="230">
 </p>
+
+
+
 
 
 
@@ -24,6 +28,7 @@
  <a href="https://apps.apple.com/app/id1496163443">
 <img src="https://user-images.githubusercontent.com/34104180/72784308-835b1700-3bf6-11ea-9de3-96ef3b5ddb61.png" alt="Smiley face" height="80" width="240">
 </a>
+
 
 
 ### My second app **Calculator for BMI**
