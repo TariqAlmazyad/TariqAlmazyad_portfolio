@@ -4,13 +4,14 @@
 ### I believe a great iOS developer never stops learning. My passionate to learn new skill in Swift never stops
 ### My very First app **Cool Listy**
 ### My Goal was to add to a To Do list more colorful flavor and take user experience to the next level
- <a href="https://apps.apple.com/us/app/cool-listy/id1495567728?ls=1">
+ <a href="https://apps.apple.com/app/id1496163443">
 <img src="https://user-images.githubusercontent.com/34104180/72784308-835b1700-3bf6-11ea-9de3-96ef3b5ddb61.png" alt="Smiley face" height="80" width="240">
 </a>
+
 <p>
-<img src="https://user-images.githubusercontent.com/34104180/72785732-e00c0100-3bf9-11ea-9c90-f4b6656dc4f4.PNG" alt="Smiley face" height="300" width="300">
-<img src="https://user-images.githubusercontent.com/34104180/72785768-f3b76780-3bf9-11ea-8b31-69d0d8c28d04.PNG" alt="Smiley face" height="300" width="300">
+<img src="https://user-images.githubusercontent.com/34104180/73143067-c0466400-4063-11ea-9b13-66a4c358682b.gif" alt="Smiley face" height="400" width="230">
 </p>
+
 
 
 
@@ -23,7 +24,6 @@
  <a href="https://apps.apple.com/app/id1496163443">
 <img src="https://user-images.githubusercontent.com/34104180/72784308-835b1700-3bf6-11ea-9de3-96ef3b5ddb61.png" alt="Smiley face" height="80" width="240">
 </a>
-
 
 
 ### My second app **Calculator for BMI**
