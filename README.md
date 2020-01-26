@@ -34,6 +34,9 @@
 
 ### My second app **Calculator for BMI**
 <h2> Calculate your BMI easily with modern design </h2>
+
+<h3> check if you have a good food diets!</h3>
+
 <p>
 <img src="https://user-images.githubusercontent.com/34104180/73141891-cb46c780-4056-11ea-8070-465b48be825f.gif" alt="Smiley face" height="400" width="230">
  
