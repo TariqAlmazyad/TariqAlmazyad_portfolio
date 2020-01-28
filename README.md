@@ -1,4 +1,4 @@
-  <img src="https://user-images.githubusercontent.com/34104180/73288242-9ce8f980-41c8-11ea-8634-b135595fd6dc.png" height="200" width="200">
+  <img src="https://user-images.githubusercontent.com/34104180/73288242-9ce8f980-41c8-11ea-8634-b135595fd6dc.png" height="177" width="177">
 
 ### I am very humbled that you took time to see my work. Thank you in advance
 ### My name is Tariq Almazyad. 
