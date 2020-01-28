@@ -1,3 +1,5 @@
+  <img src="https://user-images.githubusercontent.com/34104180/73288242-9ce8f980-41c8-11ea-8634-b135595fd6dc.png" height="300" width="300">
+
 ### I am very humbled that you took time to see my work. Thank you in advance
 ### My name is Tariq Almazyad. 
 ### I am a junior iOS developer, currently working as freelance for making apps. 
@@ -14,6 +16,7 @@
  
   <img src="https://user-images.githubusercontent.com/34104180/73143166-c4bf4c80-4064-11ea-9f8b-079358917fd0.gif" alt="Smiley face" height="400" width="230">
 </p>
+
 
 
 
