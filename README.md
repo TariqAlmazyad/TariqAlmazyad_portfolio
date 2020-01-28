@@ -1,7 +1,7 @@
   <img src="https://user-images.githubusercontent.com/34104180/73288242-9ce8f980-41c8-11ea-8634-b135595fd6dc.png" height="177" width="177">
 
-### I am very humbled that you took time to see my work. Thank you in advance
-### My name is Tariq Almazyad. 
+## I am very humbled that you took time to see my work. Thank you in advance
+## My name is Tariq Almazyad. 
 ### I am a junior iOS developer, currently working as freelance for making apps. 
 ### I believe a great iOS developer never stops learning. My passionate to learn new skill in Swift never stops
 ### My very First app **Cool Listy**
@@ -17,23 +17,15 @@
   <img src="https://user-images.githubusercontent.com/34104180/73143166-c4bf4c80-4064-11ea-9f8b-079358917fd0.gif" alt="Smiley face" height="400" width="230">
 </p>
 
-
-
-
-
-
-
 ### Used Frameworks
 ## <a href="https://github.com/viccalexander/Chameleon">chameleon</a>
 ## <a href="https://realm.io/">Realm</a>
 ## <a href="https://github.com/SwipeCellKit/SwipeCellKit">swipecellkit</a>
 
-
+</br></br></br>
  <a href="https://apps.apple.com/app/id1496163443">
 <img src="https://user-images.githubusercontent.com/34104180/72784308-835b1700-3bf6-11ea-9de3-96ef3b5ddb61.png" alt="Smiley face" height="80" width="240">
 </a>
-
-
 
 ### My second app **Calculator for BMI**
 <h2> Calculate your BMI easily with modern design </h2>
