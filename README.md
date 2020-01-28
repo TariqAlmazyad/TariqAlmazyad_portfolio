@@ -21,8 +21,8 @@
 ## <a href="https://github.com/viccalexander/Chameleon">chameleon</a>
 ## <a href="https://realm.io/">Realm</a>
 ## <a href="https://github.com/SwipeCellKit/SwipeCellKit">swipecellkit</a>
-
-
+<p>
+<br><br><br><br>
  <a href="https://apps.apple.com/app/id1496163443">
 <img src="https://user-images.githubusercontent.com/34104180/72784308-835b1700-3bf6-11ea-9de3-96ef3b5ddb61.png" alt="Smiley face" height="80" width="240">
 </a>
